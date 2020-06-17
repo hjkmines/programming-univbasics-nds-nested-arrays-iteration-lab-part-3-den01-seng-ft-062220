@@ -1,38 +1,3 @@
-def join_nested_strings (mixed)
-  
-  
-  
-  
-  
-end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def join_nested_strings(src)
   
   count_1 = 0 
